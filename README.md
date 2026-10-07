@@ -6,8 +6,12 @@ A beginner-friendly Python command-line project for keeping a simple in-memory l
 
 - Add a student and their marks
 - View all students
+- Search for a student by name (case-insensitive exact match)
+- Delete a student by name
+- Update a student's marks
 - Calculate the average marks
 - Navigate using a simple command-line menu
+- Choose a specific record when multiple students have the same name
 
 ## Requirements
 
